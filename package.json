@@ -1,0 +1,8 @@
+{
+  "name": "react-basic-concept",
+  "version": "1.0.0",
+  "description": "react basic concept and features",
+  "main": "index.js",
+  "author": "Bowen Zhong",
+  "license": "MIT"
+}
