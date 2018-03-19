@@ -1,7 +1,7 @@
 {
-  "name": "react-basic-concept",
+  "name": "react-code-reading",
   "version": "1.0.0",
-  "description": "react basic concept and features",
+  "description": "React Code Reading",
   "main": "index.js",
   "author": "Bowen Zhong",
   "license": "MIT"
